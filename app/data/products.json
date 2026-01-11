@@ -1,0 +1,18 @@
+[
+  {
+    "id": "spotify",
+    "name": "Spotify Premium",
+    "description": "No ads, skip unlimited, kualitas tinggi",
+    "price": "25.000",
+    "duration": "1 Bulan",
+    "active": true
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube Premium",
+    "description": "Tanpa iklan + background play",
+    "price": "30.000",
+    "duration": "1 Bulan",
+    "active": true
+  }
+]

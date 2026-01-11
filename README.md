@@ -1,1 +1,0 @@
-# Peringkat-Kreator-Tiktok
